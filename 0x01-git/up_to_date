@@ -1,0 +1,6 @@
+
+git checkout master
+touch up_to_date
+git pull 
+git checkout update_script
+git merge master
